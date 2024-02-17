@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="left">Привет, меня зовут <a href="https://kirov-kaluga.hh.ru/resume/3dc59867ff0b89391e0039ed1f316f57687656" target="_blank">Дмитрий</a></h1>
+<h3 align="left">QA Engineer from Russia 🇷🇺</h3>
 
-<!--
-**totSamiy73/totSamiy73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Language and Tools
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=charles)
+![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 👨‍💻 Обо мне: 
+Сейчас я - начинающий тестировщик,  мне нравится эта профессия и я хочу развиваться в этой области.
