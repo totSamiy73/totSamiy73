@@ -21,12 +21,12 @@
 
 ### 🏆 Пройденные курсы:
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-63085-96678e3.pdf" target="_blank">Инди-курс программирования на Python</a></h4>
-<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-58852-46be6be.pdf" target="_blank">"Поколение Python": курс для начинающих</a></h4>
-<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-68343-3854e17.pdf" target="_blank">"Поколение Python": курс для продвинутых</a></h4>
-<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-114354-d554dd9.pdf" target="_blank">"ООП: Объектно-ориентированное программирование на Python</a></h4>
-<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-575-86e0dfd.pdf" target="_blank">"Автоматизация тестирования с помощью Selenium и Python</a></h4>
-<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-171826-53d3627.pdf" target="_blank">"Тестирование ПО с нуля. Теория + Практика</a></h4>
-<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-179137-50e59b4.pdf" target="_blank">"Тестирование ПО (ручное тестирование с проверкой преподавателем)</a></h4>
+<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-58852-46be6be.pdf" target="_blank">Поколение Python": курс для начинающих</a></h4>
+<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-68343-3854e17.pdf" target="_blank">Поколение Python": курс для продвинутых</a></h4>
+<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-114354-d554dd9.pdf" target="_blank">ООП: Объектно-ориентированное программирование на Python</a></h4>
+<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-575-86e0dfd.pdf" target="_blank">Автоматизация тестирования с помощью Selenium и Python</a></h4>
+<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-171826-53d3627.pdf" target="_blank">Тестирование ПО с нуля. Теория + Практика</a></h4>
+<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-179137-50e59b4.pdf" target="_blank">Тестирование ПО (ручное тестирование с проверкой преподавателем)</a></h4>
 
 
 
