@@ -3,10 +3,8 @@
 
 
 ### Language and Tools
-<img src="https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=136be1"/>
-<img src="https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=f76935"/> 
-<img src="https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=7ede2b"/> 
-<img src="https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=Github&logoColor=8cc4d7"/> 
+<img src="https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=136be1"/> <img src="https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=f76935"/> 
+<img src="https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=7ede2b"/> <img src="https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=Github&logoColor=8cc4d7"/> 
 <img src="https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5"/> 
 <img src="https://img.shields.io/badge/css3-090909?style=for-the-badge&logo=css3&logoColor=#1572B6"/> 
 <img src="https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=00618a"/>
@@ -21,6 +19,6 @@
 Сейчас я - начинающий QA Engineer, мне нравится эта профессия и я хочу развиваться в этой области.
 
 ### 🏆 Пройденные курсы:
-<h5 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-63085-96678e3.pdf" target="_blank">Инди-курс программирования на Python</a></h5>
+<h3 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-63085-96678e3.pdf" target="_blank">Инди-курс программирования на Python</a></h3>
 
 
