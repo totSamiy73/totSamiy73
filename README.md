@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/PYTHON-090909?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/selenium-090909?style=for-the-badge&logo=selenium"/>
 <img src="https://img.shields.io/badge/pytest-090909?style=for-the-badge&logo=pytest"/>
+<img src="https://img.shields.io/badge/pycharm-090909?style=for-the-badge&logo=pycharm"/>
 
 ### 👨‍💻 Обо мне: 
 Сейчас я - начинающий QA Engineer, мне нравится эта профессия и я хочу развиваться в этой области.
