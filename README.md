@@ -20,7 +20,7 @@
 QA Engineer | QA Automation Engineer
 Pytest • Requests • Selenium • Playwright • API Testing
 
-### 🏆 Пройденные курсы:
+### 🏆 Мой путь:
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-195619-472ee74.pdf" target="_blank">Функциональное программирование на Python</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-63085-96678e3.pdf" target="_blank">Инди-курс программирования на Python</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-58852-46be6be.pdf" target="_blank">Поколение Python: курс для начинающих</a></h4>
