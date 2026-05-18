@@ -17,7 +17,8 @@
 <img src="https://img.shields.io/badge/pycharm-090909?style=for-the-badge&logo=pycharm"/>
 
 ### 👨‍💻 Обо мне: 
-Сейчас я - начинающий QA Engineer, мне нравится эта профессия и я хочу развиваться в этой области.
+QA Engineer | QA Automation Engineer
+Pytest • Requests • Selenium • Playwright • API Testing
 
 ### 🏆 Пройденные курсы:
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-195619-472ee74.pdf" target="_blank">Функциональное программирование на Python</a></h4>
@@ -26,8 +27,6 @@
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-68343-3854e17.pdf" target="_blank">Поколение Python: курс для продвинутых</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-114354-d554dd9.pdf" target="_blank">ООП: Объектно-ориентированное программирование на Python</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-575-86e0dfd.pdf" target="_blank">Автоматизация тестирования с помощью Selenium и Python</a></h4>
-<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-171826-53d3627.pdf" target="_blank">Тестирование ПО с нуля. Теория + Практика</a></h4>
-<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-179137-50e59b4.pdf" target="_blank">Тестирование ПО (ручное тестирование с проверкой преподавателем)</a></h4>
 <h4 align="left"> <a href="https://okulik.by/" target="_blank">Менторский курс от практикующего автоматизатора</a></h4>
 
 
