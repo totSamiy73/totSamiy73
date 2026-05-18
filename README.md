@@ -20,6 +20,7 @@
 Сейчас я - начинающий QA Engineer, мне нравится эта профессия и я хочу развиваться в этой области.
 
 ### 🏆 Пройденные курсы:
+<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-195619-472ee74.pdf" target="_blank">Функциональное программирование на Python</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-63085-96678e3.pdf" target="_blank">Инди-курс программирования на Python</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-58852-46be6be.pdf" target="_blank">Поколение Python: курс для начинающих</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-68343-3854e17.pdf" target="_blank">Поколение Python: курс для продвинутых</a></h4>
