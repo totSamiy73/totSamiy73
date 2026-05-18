@@ -27,6 +27,7 @@
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-575-86e0dfd.pdf" target="_blank">Автоматизация тестирования с помощью Selenium и Python</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-171826-53d3627.pdf" target="_blank">Тестирование ПО с нуля. Теория + Практика</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-179137-50e59b4.pdf" target="_blank">Тестирование ПО (ручное тестирование с проверкой преподавателем)</a></h4>
+<h4 align="left"> <a href="https://okulik.by/" target="_blank">Менторский курс от практикующего автоматизатора</a></h4>
 
 
 
