@@ -17,8 +17,8 @@
 <img src="https://img.shields.io/badge/pycharm-090909?style=for-the-badge&logo=pycharm"/>
 
 ### 👨‍💻 Обо мне: 
-QA Engineer | QA Automation Engineer
-Pytest • Requests • Selenium • Playwright • API Testing
+<h4>QA Engineer | QA Automation Engineer</h4>
+<h4>Pytest • Requests • Selenium • Playwright • API Testing</h4>
 
 ### 🏆 Мой путь:
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-195619-472ee74.pdf" target="_blank">Функциональное программирование на Python</a></h4>
