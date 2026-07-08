@@ -27,12 +27,7 @@
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-68343-3854e17.pdf" target="_blank">Поколение Python: курс для продвинутых</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-114354-d554dd9.pdf" target="_blank">ООП: Объектно-ориентированное программирование на Python</a></h4>
 <h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/stepik-certificate-575-86e0dfd.pdf" target="_blank">Автоматизация тестирования с помощью Selenium и Python</a></h4>
-<h4 align="left"> <a href="https://github.com/totSamiy73/totSamiy73/blob/main/assets/DAkulov.jpg" target="_blank">Менторский курс от практикующего автоматизатора</a></h4>
-<a href="https://raw.githubusercontent.com/totSamiy73/totSamiy73/main/assets/DAkulov.jpg">
-  <img src="https://raw.githubusercontent.com/totSamiy73/totSamiy73/main/assets/DAkulov.jpg"
-       width="350"
-       alt="Mentor Certificate">
-</a>
+<h4 align="left"> <a href="https://raw.githubusercontent.com/totSamiy73/totSamiy73/blob/main/assets/DAkulov.jpg" target="_blank">Менторский курс от практикующего автоматизатора</a></h4>
 
 
 
